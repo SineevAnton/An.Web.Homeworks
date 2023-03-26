@@ -1,0 +1,31 @@
+<!-- исходная версия -->
+<!--
+
+<user>
+
+<name>"Иван"</name>
+
+<surname>"Иванов"</surname>
+
+<patronymic>"Иванович"</patronymic>
+
+<age>"30"</age>
+
+<phone>"Москва"</phone>
+
+<birthplace>"+7 926 766 48 48"</birthplace>
+
+</user
+
+-->
+
+<!-- Исправленная версия -->
+<!-- Убраны пустые строки -->
+<user>
+	<name>"Иван"</name>
+	<surname>"Иванов"</surname>
+	<patronymic>"Иванович"</patronymic>
+	<age>"30"</age>
+	<phone>"+7 926 766 48 48"</phone> <!-- Вставлен телефон -->
+	<birthplace>"Москва"</birthplace> <!-- Вставлен город -->
+</user> <!-- Закрыта скобка -->
